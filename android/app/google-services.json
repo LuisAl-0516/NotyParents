@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398811904033",
+    "project_id": "noty-parents",
+    "storage_bucket": "noty-parents.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398811904033:android:60fc74f3720714b1be4b60",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwTpvLgE8R3bNDcuJ9wIhrByYLnsfr2ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
